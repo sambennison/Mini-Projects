@@ -1,2 +1,3 @@
-Mini Game Using python turtle library
-1. Tennis Pong Game 
+Mini_Projects
+#Python Games: Pong (2-player) & Snake (growing mechanics) using Turtle
+
